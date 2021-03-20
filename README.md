@@ -1,7 +1,7 @@
 ## Olá, eu sou Antonio Moreira <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="40px">
 <a href= "https://github.com/antonio-moreira-prog">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonio-moreira-prog&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-moreira-prog&layout=compact&langs_count=8&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonio-moreira-prog&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-moreira-prog&layout=compact&langs_count=8&theme=algolia"/>
 <div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
