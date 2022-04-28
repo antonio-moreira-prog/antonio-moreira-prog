@@ -19,6 +19,8 @@
 <a href="https://www.instagram.com/antonioneto.exe/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/antonio-moreira-3300021b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/antoniomoreira17?si=4c1dacfe0fd14514" target="_blank"><img src="https://img.shields.io/twitter/url?color=green&label=Spotify&logo=Spotify&logoColor=Spotify&style=for-the-badge&url=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fantoniomoreira17%3Fsi%3Db95960b8ec764dc6" target="_blank"></a>
+  
+ ![Snake animation](https://github.com/antonio-moreira-prog/antonio-moreira-prog/blob/output/github-contribution-grid-snake.svg)
 
 </div>
  
