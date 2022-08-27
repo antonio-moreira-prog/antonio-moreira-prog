@@ -4,9 +4,7 @@
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-moreira-prog&layout=compact&langs_count=8&theme=radical"/>
 
 <div style="display: inline_block"><br>
-  
-<img align="center" alt="Neto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Neto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 <img align="center" alt="Neto-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Neto-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="right" alt="Neto-pic" height="150" src="https://github.com/antonio-moreira-prog/antonio-moreira-prog/blob/main/imagem-readme.png">
