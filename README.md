@@ -7,7 +7,7 @@
 
 <img align="center" alt="Logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<img align="center" alt="Logo-Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<img align="center" alt="Logo-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
 
 <img align="center" alt="Neto-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="right" alt="Neto-pic" height="150" src="https://github.com/antonio-moreira-prog/antonio-moreira-prog/blob/main/imagem-readme.png">
