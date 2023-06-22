@@ -4,12 +4,14 @@
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-moreira-prog&layout=compact&langs_count=8&theme=radical"/>
 
 <div style="display: inline_block"><br>
-
-<img align="center" alt="Logo-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="Logo-Java" height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-
-<img align="center" alt="Neto-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img align="center"alt="css3"  width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img  align="center" alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img  align="center" alt="html5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="center" alt="Logo-Javascript" width="40" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Logo-Java" width="40" height="40"  src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+<img align="center" alt="Neto-C" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+ <img align="center"  alt="laravel" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"/>
+ <img  align="center" alt="vuejs" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="right" alt="Neto-pic" height="150" src="https://github.com/antonio-moreira-prog/antonio-moreira-prog/blob/main/imagem-readme.png">
 
 </div>
