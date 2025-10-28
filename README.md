@@ -18,7 +18,6 @@
 ## ⚡ GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=antonio-moreira-prog&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=antonio-moreira-prog&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
