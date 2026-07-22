@@ -62,33 +62,11 @@ Meu foco é desenvolver softwares que realmente resolvam problemas.
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=antonio-moreira-prog&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-moreira-prog&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=antonio-moreira-prog&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=antonio-moreira-prog&theme=tokyonight&column=7"/>
 
 </p>
 
@@ -108,7 +86,7 @@ Meu foco é desenvolver softwares que realmente resolvam problemas.
 
 <p align="center">
 
-<img src="https://github.com/antonio-moreira-prog/antonio-moreira-prog/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://ghchart.rshah.org/antonio-moreira-prog"/>
 
 </p>
 
