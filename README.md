@@ -21,8 +21,6 @@
 
 ## 👨🏻‍💻 Sobre mim
 
-<img align="right" width="190" alt="Avatar ilustrado do Antonio" src="imagem-readme.png" />
-
 Sou **Desenvolvedor Full Stack na CajuTec**, onde desenvolvo e mantenho sistemas web com **Laravel (PHP), Vue.js e MySQL**. Tenho base sólida em Lógica de Programação, Estruturas de Dados e Programação Orientada a Objetos.
 
 Gosto de resolver problemas técnicos complexos e de criar interfaces intuitivas. Trabalho com APIs RESTful, design responsivo e frameworks JavaScript, e tenho o hábito de escrever testes com **Pest PHP** para garantir a qualidade do código.
@@ -33,8 +31,6 @@ O que mais me motiva é encarar desafios que me tiram da zona de conforto e enco
 - 🎓 Bacharelado em **Engenharia de Software** (Anhanguera) em andamento
 - 🧪 Qualidade com **Pest** e testes end-to-end com **Playwright**
 - 💳 Experiência real com **integrações bancárias e meios de pagamento**
-
-<br clear="right" />
 
 > [!NOTE]
 > **Atualmente:** construindo plataformas SaaS multi-tenant, estudando Arquitetura de Software e evoluindo em Docker, CI/CD e AWS.
