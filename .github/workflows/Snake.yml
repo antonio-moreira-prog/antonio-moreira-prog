@@ -1,23 +1,30 @@
-name: Generate Datas
+name: Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # a cada 12 horas
+    - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/Snake.yml]
+
+permissions:
+  contents: write
 
 jobs:
-  build:
-    name: Jobs to update datas
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Cobrinha nas cores do portfólio: petróleo (#0D758C) e bege (#BF9673)
+      - uses: Platane/snk@v3
         with:
-          github_user_name: antonio-moreira-prog
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github-light&color_snake=#BF9673&color_dots=#e3e9ec,#b9dbe2,#7fbfcc,#3a97ab,#0d758c
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#BF9673&color_dots=#0b2433,#0b4a5e,#0d758c,#3fa9c0,#7fd0df
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
