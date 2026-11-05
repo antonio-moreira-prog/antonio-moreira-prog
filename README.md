@@ -140,6 +140,12 @@ timeline
     2024 – hoje : Engenharia de Software · Anhanguera
 ```
 
+<!--
+  ATIVIDADE NO GITHUB — desativada temporariamente.
+  As imagens são geradas pelas Actions (profile-3d.yml e Snake.yml), que estão bloqueadas
+  enquanto houver pendência de cobrança na conta. Depois de resolver, rode as duas Actions
+  (aba Actions > Run workflow) e remova este comentário.
+
 ## 📊 Atividade no GitHub
 
 <p align="center">
@@ -157,6 +163,7 @@ timeline
     <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/antonio-moreira-prog/antonio-moreira-prog/output/github-snake.svg" />
   </picture>
 </p>
+-->
 
 ## ☕ Em código
 
